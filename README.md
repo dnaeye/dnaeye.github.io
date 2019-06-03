@@ -1,37 +1,5 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/dnaeye/portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nunc consequat interdum varius sit amet mattis. Semper viverra nam libero justo laoreet sit amet. Id aliquet risus feugiat in ante metus. Libero volutpat sed cras ornare. Ultrices in iaculis nunc sed augue lacus viverra vitae. Dictum varius duis at consectetur lorem donec massa sapien. Mattis aliquam faucibus purus in massa tempor. Elit duis tristique sollicitudin nibh sit amet commodo nulla facilisi. Porta lorem mollis aliquam ut porttitor leo a diam sollicitudin. Lacus vel facilisis volutpat est. Vitae tortor condimentum lacinia quis. Duis ut diam quam nulla porttitor. Et tortor consequat id porta nibh venenatis cras sed felis. Ut sem viverra aliquet eget sit. Velit euismod in pellentesque massa. Mi proin sed libero enim sed faucibus turpis in. Eu feugiat pretium nibh ipsum consequat nisl. A pellentesque sit amet porttitor eget.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dnaeye/portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Scelerisque fermentum dui faucibus in ornare quam viverra. Ultricies leo integer malesuada nunc vel. Suspendisse sed nisi lacus sed viverra tellus in. Est placerat in egestas erat imperdiet. Nulla facilisi cras fermentum odio eu feugiat pretium. Elit eget gravida cum sociis natoque penatibus et magnis. Sed viverra ipsum nunc aliquet bibendum enim. Arcu non odio euismod lacinia at quis risus sed. Turpis egestas pretium aenean pharetra magna ac placerat vestibulum. Consectetur adipiscing elit duis tristique. Faucibus pulvinar elementum integer enim neque volutpat ac. Vitae suscipit tellus mauris a diam maecenas. Nibh venenatis cras sed felis eget velit aliquet sagittis. Risus viverra adipiscing at in tellus integer feugiat scelerisque varius. Aliquet nec ullamcorper sit amet risus nullam. Orci ac auctor augue mauris augue neque gravida in. Vel eros donec ac odio tempor. Dolor sit amet consectetur adipiscing elit ut aliquam purus. Et netus et malesuada fames ac turpis egestas. Scelerisque felis imperdiet proin fermentum leo vel.
