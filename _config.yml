@@ -1,1 +1,21 @@
 theme: jekyll-theme-slate
+
+title: Dev Site
+description: Portfolio
+
+# social links
+email: danhong.23@outlook.com
+linkedin_username: danhong23
+github: dnaeye
+
+# plugins
+plugins:
+  - jemoji
+
+# nav menu
+pages_list:
+  About: '/about'
+  Projects: '/projects'
+  Studies: '/studies'
+
+# show_downloads: true
