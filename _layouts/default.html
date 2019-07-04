@@ -30,7 +30,7 @@
 		  
 		  <!-- {% include nav.html %} -->
 		  {% for page in site.pages_list %}
-		    <small><a>|&nbsp;&nbsp;</a><a href="{{ page[1] }}">{{ page[0] }}</a>&nbsp;</small>
+		    <small>|&nbsp;&nbsp;<a href="{{ page[1] }}">{{ page[0] }}</a>&nbsp;</small>
 		  {% endfor %}
 		    
           {% if site.show_downloads %}
@@ -41,6 +41,9 @@
           {% endif %}
         </header>
     </div>
+
+
+
 
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">

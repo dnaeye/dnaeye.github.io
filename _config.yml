@@ -14,8 +14,8 @@ plugins:
 
 # nav menu
 pages_list:
-  About: '/about'
-  Projects: '/projects'
-  Studies: '/studies'
-
+  Projects: '/projects.html'
+  Studies: '/studies.html'
+  Tools: '/tools.html'
+  About: '/about.html'
 # show_downloads: true
