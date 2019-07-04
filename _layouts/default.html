@@ -23,13 +23,19 @@
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
 			
+		  <div class="navbar">
+			  {% for page in site.pages_list %}
+			  	<a href="{{ page[1] }}">{{ page[0] }}</a>
+			  {% endfor %}
+		  </div>  
 		  
-		  <!-- {% include nav.html %} -->
+		  <!-- {% include nav.html %}
 		  {% for page in site.pages_list %}
-		  <font color=#ffffff>|&nbsp;&nbsp;</font>
+		  <font color=#ffffff>|&nbsp;</font>
 		  <small><a href="{{ page[1] }}">{{ page[0] }}</a>&nbsp;</small>
 		  {% endfor %}
 		  <font color=#ffffff>&nbsp;|</font>
+	      -->
 		    
           {% if site.show_downloads %}
             <section id="downloads">
