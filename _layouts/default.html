@@ -12,14 +12,6 @@
 
   <body>
 
-	<!-- NAV BAR -->
-	<div class="navbar">
-		{% for page in site.pages_list %}
-		<a href="{{ page[1] }}">{{ page[0] }}</a>
-		{% endfor %}
-	</div>
-
-	<div class="main">
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
         <header class="inner">
@@ -49,6 +41,17 @@
           {% endif %}
         </header>
     </div>
+
+
+	<!-- NAV BAR -->
+	<div class="navbar">
+		{% for page in site.pages_list %}
+		<a href="{{ page[1] }}">{{ page[0] }}</a>
+		{% endfor %}
+	</div>
+
+	<div class="main">
+
 
 
 
