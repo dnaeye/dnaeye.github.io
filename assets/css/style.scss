@@ -14,7 +14,7 @@
 
 /* Links inside the navbar */
 .navbar a {
-  float: left;
+  float: center;
   display: block;
   color: #f2f2f2;
   text-align: center;
@@ -28,7 +28,8 @@
   color: black;
 }
 
-/* Main content */
 .main {
-  margin-top: 30px; /* Add a top margin to avoid content overlay */
+  padding: 16px;
+  margin-top: 30px;
+  height: 1500px; /* Used in this example to enable scrolling */
 }

@@ -12,6 +12,13 @@
 
   <body>
 
+	<!-- NAV BAR -->
+	<div class="navbar">
+		{% for page in site.pages_list %}
+		<a href="{{ page[1] }}">{{ page[0] }}</a>
+		{% endfor %}
+	</div>
+
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
         <header class="inner">
@@ -32,7 +39,7 @@
 		  {% endfor %}
 		  <font color=#ffffff>&nbsp;|</font>
 	      -->
-		    
+		     
           {% if site.show_downloads %}
             <section id="downloads">
               <a class="zip_download_link" href="{{ site.github.zip_url }}">Download this project as a .zip file</a>
@@ -43,18 +50,7 @@
     </div>
 
 
-	<!-- NAV BAR -->
-	<div class="navbar">
-		{% for page in site.pages_list %}
-		<a href="{{ page[1] }}">{{ page[0] }}</a>
-		{% endfor %}
-	</div>
-
 	<div class="main">
-
-
-
-
 
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
@@ -62,6 +58,8 @@
         {{ content }}
       </section>
     </div>
+	
+	</div>
 
     <!-- FOOTER  -->
     <div id="footer_wrap" class="outer">
@@ -84,6 +82,5 @@
       </script>
     {% endif %}
 	
-</div>
   </body>
 </html>
