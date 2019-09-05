@@ -1,0 +1,12 @@
+pages:
+  
+- title: Home
+  url: /
+- title: Projects
+  url: /projects.html
+#- title: Studies
+#  url: /studies.html
+- title: Tools
+  url: /tools.html
+- title: About
+  url: /about.html
