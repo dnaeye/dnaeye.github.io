@@ -1,7 +1,7 @@
 theme: jekyll-theme-slate
 
-title: Dev Site
-description: Portfolio
+title: Homebase
+description: Under development
 
 # social links
 email: danhong.23@outlook.com
@@ -12,10 +12,4 @@ github: dnaeye
 plugins:
   - jemoji
 
-# nav menu
-pages_list:
-  Projects: '/projects.html'
-  Studies: '/studies.html'
-  Tools: '/tools.html'
-  About: '/about.html'
 # show_downloads: true
