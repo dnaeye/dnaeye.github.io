@@ -10,9 +10,9 @@ In photography, the objective is to snap great pictures in terms of the content,
 
 Like photogs, data analysts and scientists love their tools. Here are my favs:
 
-![Tableau](/assets/images/tableau_logo.png)
+[![Tableau](/assets/images/tableau_logo.png)](http://tableau.com){:target="_blank"}
 
-![R](/assets/images/r_logo.png)
+[![R](/assets/images/r_logo.png)](https://www.r-project.org/){:target="_blank"}
 - ggplot2
 - dplyr
 - tidyr
@@ -20,7 +20,7 @@ Like photogs, data analysts and scientists love their tools. Here are my favs:
 - fpp2
 - Shiny
 
-![Python](/assets/images/python_logo.png)
+[![Python](/assets/images/python_logo.png)](https://www.python.org/){:target="_blank"}
 - matplotlib
 - pandas
 - numpy
