@@ -4,7 +4,9 @@ layout: default
 
 # Projects
 
-
+## Coding
+- **[Best Albums of ****](projects/best_of.md)**
+I used to listen to every new album to hit the streets. But after kids and getting old and lazy, I'm content delegating music discovery to the pros at <a href="https://pitchfork.com" target="_blank">Pitchfork</a> and <a href="https://boomkat.com" target="_blank">Boomkat</a> who publish annual lists of their favorite albums. One thing these lists don't have is a quick way to listen to all these albums, which is why I created my own webpages with embedded Spotify players.
 
 <a href="http://datacamp.com" target="_blank"><img src="assets/images/datacamp.png" alt="DataCamp logo" width="200"></a>
 - **[Degrees That Pay You Back](projects/college_degrees.html){:target="_blank"}**  
