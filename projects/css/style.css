@@ -16,7 +16,7 @@ th {
 	background-color: #4CAF50;
 	position: sticky;
 	top: 0;
-	box-shadow: 0 2px 2px -1px rgba(0, 0, 0, 0.4);
+	box-shadow: 0 3px 2px -1px rgba(0, 0, 0, 0.4);
 }
 
 #tr:nth-child(even){background-color: #f2f2f2;}
@@ -31,11 +31,26 @@ h1 {
 	text-align: center;
 }
 
+footer {
+	position: sticky;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	height: 120px;
+	padding: 3px;
+	width: 100%;
+	background-color: #4CAF50;
+/*	align-items:center;*/
+	font-family: Helvetica, Arial, sans-serif;
+	text-align: center;
+	box-shadow: 0 -3px 2px -1px rgba(0, 0, 0, 0.4);
+}
+
 .container {
 	position: relative;
 	text-align: center;
 	color: white;
-	width: 1280px;
+	width: 100%;
 	margin-left: auto; 
 	margin-right: auto;
 	padding-top: 10px;
@@ -60,8 +75,8 @@ h1 {
 }
 
 .centered {
-	position: absolute;
+	position: relative;
 	top: 50%;
 	left: 50%;
-	transform: translate(-50%, 70%);
+	transform: translate(-50%, -50%);
 }
